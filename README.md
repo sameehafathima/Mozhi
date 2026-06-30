@@ -200,12 +200,12 @@ Add screenshots of:
 <table align="center">
   <tr>
     <td align="center">
-      <img width="1080" height="2060" alt="image" src="https://github.com/user-attachments/assets/f9dc40ad-d44e-42fe-b164-8bd07e826119" />
+      <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9dc40ad-d44e-42fe-b164-8bd07e826119" />
 <br>
       <b>Login Screen</b>
     </td>
     <td align="center">
-      <img width="1080" height="3095" alt="image" src="https://github.com/user-attachments/assets/357553e8-d59e-42eb-89a8-d95af13d46ef" />
+      <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/357553e8-d59e-42eb-89a8-d95af13d46ef" />
 <br>
       <b>Register</b>
     </td>
