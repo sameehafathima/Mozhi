@@ -190,11 +190,50 @@ Add screenshots of:
 - Book Management
 - Borrow Requests
   
-   <img width="1080" height="2060" alt="WhatsApp Image 2026-06-30 at 10 29 14 PM" src="https://github.com/user-attachments/assets/307d34c3-74dc-43db-bb92-818eb7a5d9bf" />
-   <img width="1080" height="3095" alt="WhatsApp Image 2026-06-30 at 10 29 44 PM" src="https://github.com/user-attachments/assets/07f5a842-ce9b-4d85-a708-cd93a6fbcb0e" />
-  <img width="707" height="4160" alt="WhatsApp Image 2026-06-30 at 10 36 33 PM" src="https://github.com/user-attachments/assets/d86c5830-8282-49c3-b133-6774b7437d06" />
-  <img width="1045" height="4160" alt="WhatsApp Image 2026-06-30 at 10 35 52 PM" src="https://github.com/user-attachments/assets/c704a82d-24eb-424c-a6fa-130a0ad5bc91" />
-  <img width="720" height="1470" alt="WhatsApp Image 2026-06-30 at 10 36 53 PM" src="https://github.com/user-attachments/assets/cc360117-5c93-4cee-8887-f480f554d1a4" />
+ ## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="## Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="1080" height="2060" alt="image" src="https://github.com/user-attachments/assets/f9dc40ad-d44e-42fe-b164-8bd07e826119" />
+<br>
+      <b>Login Screen</b>
+    </td>
+    <td align="center">
+      <img width="1080" height="3095" alt="image" src="https://github.com/user-attachments/assets/357553e8-d59e-42eb-89a8-d95af13d46ef" />
+<br>
+      <b>Register</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img width="1080" height="3095" alt="image" src="https://github.com/user-attachments/assets/8ff1b11d-3751-45fb-97f3-146c2e244594" />
+<br>
+      <b>user dashboard</b>
+    </td>
+    <td align="center">
+     <img width="1045" height="4160" alt="image" src="https://github.com/user-attachments/assets/a32e8580-a070-4d28-8296-85df68d11909" />
+<br>
+      <b>admin dashboard</b>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td align="center">
+     <img width="720" height="1470" alt="image" src="https://github.com/user-attachments/assets/f27f5daf-7d77-4bae-82b6-899556ebf053" />
+<br>
+      <b>OCR Scanner</b>
+    </td>
+  </tr>
+
+
   
 ---
 
