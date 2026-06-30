@@ -1,0 +1,20 @@
+# Android Studio files
+.idea/
+.gradle/
+build/
+*.iml
+local.properties
+
+# THE SECRETS (Keep these private!)
+app/google-services.json
+*.jks
+*.keystore
+
+# Large files
+*.apk
+*.zip
+vmp.zip
+
+# Misc
+.DS_Store
+captures/

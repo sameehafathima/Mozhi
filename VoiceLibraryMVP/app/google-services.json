@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602001378262",
+    "project_id": "voicelibrarymvp",
+    "storage_bucket": "voicelibrarymvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602001378262:android:21aa3410cfc47092613277",
+        "android_client_info": {
+          "package_name": "com.nit.voicelibrarymvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602001378262-j2tpn7hugfl06g2mu5l7l72v0u5t8ca3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nit.voicelibrarymvp",
+            "certificate_hash": "47e58c3b40ff3ac9ba9fef81df316519919ece9c"
+          }
+        },
+        {
+          "client_id": "602001378262-tgoakqvp3he9cndm7qe62eh7lf8vgvfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqWuov22yAhftdYQ5OAFXj3dnI_5y5WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602001378262-tgoakqvp3he9cndm7qe62eh7lf8vgvfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
