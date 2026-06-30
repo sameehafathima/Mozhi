@@ -213,14 +213,15 @@ Add screenshots of:
 
   <tr>
     <td align="center">
-      <img width="1080" height="3095" alt="image" src="https://github.com/user-attachments/assets/8ff1b11d-3751-45fb-97f3-146c2e244594" />
-<br>
-      <b>user dashboard</b>
-    </td>
-    <td align="center">
-     <img width="1045" height="4160" alt="image" src="https://github.com/user-attachments/assets/a32e8580-a070-4d28-8296-85df68d11909" />
+     <img width="707" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5bb3bf7-816f-4431-a680-198488cd397a" />
+>
 <br>
       <b>admin dashboard</b>
+    </td>
+    <td align="center">
+     <img width="1045" height="1080" alt="image" src="https://github.com/user-attachments/assets/a32e8580-a070-4d28-8296-85df68d11909" />
+<br>
+      <b>user dashboard</b>
     </td>
   </tr>
 
